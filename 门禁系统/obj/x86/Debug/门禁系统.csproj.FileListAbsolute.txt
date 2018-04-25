@@ -1,0 +1,104 @@
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.Form1.resources
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.gpb1.resources
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.gpb2.resources
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.gpb3.resources
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.login.resources
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\bin\Debug\门禁系统.exe
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\bin\Debug\门禁系统.pdb
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.exe
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.pdb
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.gpb4.resources
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.刷卡.resources
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.学生添加.resources
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.宿舍查询.resources
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.帮助.resources
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.报修.resources
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.报修记录.resources
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.日历.resources
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.查寝.resources
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.查询.resources
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.注销.resources
+C:\Users\Administrator\Desktop\门禁系统\门禁系统\obj\x86\Debug\门禁系统.请假.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.exe
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.pdb
+E:\RFID\实训周\门禁系统\门禁系统\bin\Debug\门禁系统.exe
+E:\RFID\实训周\门禁系统\门禁系统\bin\Debug\门禁系统.pdb
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.Form1.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.刷卡.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.gpb1.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.gpb2.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.gpb3.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.gpb4.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.login.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.Properties.Resources.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.学生添加.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.宿舍查询.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.帮助.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.报修.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.报修记录.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.日历.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.查寝.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.查询.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.注销.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\门禁系统.请假.resources
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\RFID\实训周\门禁系统\门禁系统\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\RFID\实训\门禁系统\门禁系统\obj\x86\Debug\门禁系统.exe
+E:\RFID\实训\门禁系统\门禁系统\obj\x86\Debug\门禁系统.pdb
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.exe
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.pdb
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\bin\Debug\门禁系统.exe
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\bin\Debug\门禁系统.pdb
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.Form1.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.刷卡.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.gpb1.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.gpb2.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.gpb3.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.gpb4.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.login.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.Properties.Resources.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.学生添加.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.宿舍查询.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.帮助.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.报修.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.报修记录.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.日历.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.查寝.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.查询.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.注销.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\门禁系统.请假.resources
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\RFID\10杨露露  15郑亚国\门禁系统\门禁系统\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\task\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.exe
+F:\task\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.pdb
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\bin\Debug\门禁系统.exe
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\bin\Debug\门禁系统.pdb
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.csprojResolveAssemblyReference.cache
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.Form1.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.刷卡.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.gpb1.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.gpb2.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.gpb3.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.gpb4.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.login.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.Properties.Resources.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.学生添加.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.宿舍查询.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.帮助.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.报修.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.报修记录.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.日历.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.查寝.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.查询.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.注销.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.请假.resources
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.csproj.GenerateResource.cache
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.csproj.CoreCompileInputs.cache
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.exe
+W:\ylltask\大二下\RFID\宿舍门禁系统RFID\门禁系统\门禁系统\obj\x86\Debug\门禁系统.pdb

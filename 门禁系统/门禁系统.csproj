@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7F77376A-9413-433B-A927-8DD6E7C674BB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>门禁系统</RootNamespace>
+    <AssemblyName>门禁系统</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="刷卡.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="刷卡.Designer.cs">
+      <DependentUpon>刷卡.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gpb1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="gpb1.Designer.cs">
+      <DependentUpon>gpb1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gpb2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="gpb2.Designer.cs">
+      <DependentUpon>gpb2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gpb3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="gpb3.Designer.cs">
+      <DependentUpon>gpb3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gpb4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="gpb4.Designer.cs">
+      <DependentUpon>gpb4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="学生添加.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="学生添加.Designer.cs">
+      <DependentUpon>学生添加.cs</DependentUpon>
+    </Compile>
+    <Compile Include="宿舍查询.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="宿舍查询.Designer.cs">
+      <DependentUpon>宿舍查询.cs</DependentUpon>
+    </Compile>
+    <Compile Include="帮助.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="帮助.Designer.cs">
+      <DependentUpon>帮助.cs</DependentUpon>
+    </Compile>
+    <Compile Include="报修.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="报修.Designer.cs">
+      <DependentUpon>报修.cs</DependentUpon>
+    </Compile>
+    <Compile Include="报修记录.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="报修记录.Designer.cs">
+      <DependentUpon>报修记录.cs</DependentUpon>
+    </Compile>
+    <Compile Include="日历.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="日历.Designer.cs">
+      <DependentUpon>日历.cs</DependentUpon>
+    </Compile>
+    <Compile Include="查寝.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="查寝.Designer.cs">
+      <DependentUpon>查寝.cs</DependentUpon>
+    </Compile>
+    <Compile Include="查询.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="查询.Designer.cs">
+      <DependentUpon>查询.cs</DependentUpon>
+    </Compile>
+    <Compile Include="注销.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="注销.Designer.cs">
+      <DependentUpon>注销.cs</DependentUpon>
+    </Compile>
+    <Compile Include="请假.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="请假.Designer.cs">
+      <DependentUpon>请假.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="刷卡.resx">
+      <DependentUpon>刷卡.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gpb1.resx">
+      <DependentUpon>gpb1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gpb2.resx">
+      <DependentUpon>gpb2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gpb3.resx">
+      <DependentUpon>gpb3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gpb4.resx">
+      <DependentUpon>gpb4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="学生添加.resx">
+      <DependentUpon>学生添加.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="宿舍查询.resx">
+      <DependentUpon>宿舍查询.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="帮助.resx">
+      <DependentUpon>帮助.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="报修.resx">
+      <DependentUpon>报修.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="报修记录.resx">
+      <DependentUpon>报修记录.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="日历.resx">
+      <DependentUpon>日历.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="查寝.resx">
+      <DependentUpon>查寝.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="查询.resx">
+      <DependentUpon>查询.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="注销.resx">
+      <DependentUpon>注销.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="请假.resx">
+      <DependentUpon>请假.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
